@@ -1,0 +1,22 @@
+#Home {
+  padding-top: 7rem;
+  background-color: rgb(65, 70, 84);
+}
+
+#Experience {
+  background-color: rgb(65, 70, 84);
+}
+
+.footer {
+  padding-top: 5px;
+  padding-bottom: 5px;
+  background-color: rgb(8, 9, 9);
+}
+
+.boy {
+  text-align: center;
+}
+
+section {
+  padding-top: 5rem;
+}
