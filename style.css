@@ -8,9 +8,11 @@
 }
 
 .footer {
+  margin-top: 2rem;
   padding-top: 5px;
   padding-bottom: 5px;
-  background-color: rgb(8, 9, 9);
+  background-color: rgb(44, 44, 44);
+  background: linear-gradient(to right, rgb(117, 117, 117), #c7c7c7, #201925, rgb(36, 39, 39));
 }
 
 .boy {
@@ -19,4 +21,9 @@
 
 section {
   padding-top: 5rem;
+}
+
+.tulissan {
+  margin-top: 2rem;
+  padding-bottom: 2rem;
 }
