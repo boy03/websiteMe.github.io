@@ -55,3 +55,25 @@ section {
   text-align: center;
   color: white;
 }
+
+.P {
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  margin-top: 2rem;
+  margin-bottom: 3rem;
+  color: #ffffff;
+}
+
+.buton {
+  background-color: rgb(0, 175, 244);
+  color: rgb(0, 0, 0);
+  border-radius: 5px;
+  border: none;
+  font-size: 25px;
+}
+
+.fonti {
+  color: #ffff;
+  font-size: 25px;
+}
