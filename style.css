@@ -23,9 +23,9 @@ section {
   padding-top: 5rem;
 }
 
-.tulissan {
-  margin-top: 2rem;
-  padding-bottom: 2rem;
+.col--4 {
+  text-align: '';
+  font: bold;
 }
 
 .list-group-item {
@@ -78,6 +78,6 @@ section {
   font-size: 25px;
 }
 
-.row{
+.row {
   margin: 5rem;
 }
